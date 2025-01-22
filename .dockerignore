@@ -1,0 +1,5 @@
+# This file exuldes all the files name present here while creating docker image using docker build cmd. 
+
+test.txt
+
+# using *.txt i can remove all the txt file in the folder while running docker build to create image
